@@ -21,6 +21,6 @@ function paperwork(n, m) {
       return 0
     }else{
     return ( n * m)
-      }
-  }
+    }
+}
   
